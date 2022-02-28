@@ -41,3 +41,7 @@ git push --set-upstream origin master
 ~~~
 git pull git@github.com:ibtosmlin/atctool.git
 ~~~
+
+
+## git
+git rm -r --cached *****
